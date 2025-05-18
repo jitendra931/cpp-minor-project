@@ -1,4 +1,4 @@
-// online examination system
+// online examination system  ----> step by step explaination using comments. you will get comments on the starting of every class, function, structure etc.
 #include <iostream>
 #include <fstream>
 #include <vector>
